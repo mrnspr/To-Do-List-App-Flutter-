@@ -6,3 +6,7 @@ Add new tasks
 Edit existing tasks
 Delete tasks
 Mark tasks
+
+
+Name: Fatemeh Sepehrmanesh
+Project Researcher at the University of Oulu
