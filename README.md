@@ -1,4 +1,10 @@
 Flutter To-Do List App
+
+Name: Fatemeh Sepehrmanesh
+
+Project Researcher at the University of Oulu
+
+
 This is a simple To-Do List mobile application built with” Flutter”. It allows users to add, edit, delete, and mark tasks as completed. The app uses local database, ensuring your tasks are saved.
 
 Features
@@ -7,6 +13,17 @@ Edit existing tasks
 Delete tasks
 Mark tasks
 
+lib/
+│
+├── main.dart
+├── data/
+│   └── database.dart
+├── pages/
+│   └── home_page.dart
+├── util/
+│   ├── dialog_box.dart
+│   └── my_button.dart
+│   └── todo_tile.dart
 
-Name: Fatemeh Sepehrmanesh
-Project Researcher at the University of Oulu
+
+
